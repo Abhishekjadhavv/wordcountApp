@@ -1,4 +1,4 @@
-# THIS SIMPLE WORD AND CHARACTER COUNTER APP
+# THIS IS SIMPLE WORD AND CHARACTER COUNTER APP
 
 Technology used
 - HTML
@@ -10,5 +10,5 @@ Technology used
 ![projectImg](projectImg.png)
 
 
-[live link ](http://abhishekjadhav.netlify.app)
+[live link ](http://abhijs17.netlify.app)
 
